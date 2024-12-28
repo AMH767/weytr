@@ -37,7 +37,7 @@ a{
     transition: all 0.3s ease-out 0s;
 }
 a{
-	 color: #e5912f;
+	 color: #2fbde5;
 }
 a:focus,
 .btn:focus {
@@ -48,7 +48,7 @@ a:focus,
 a:hover {
     text-decoration: none;
     text-decoration: none;
-	color: #e5912f;
+	color: #2fbde5;
 }
 .uppercase {
     text-transform: uppercase;
